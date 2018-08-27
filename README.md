@@ -20,7 +20,7 @@ Android, Java, Android Studio
 
 This section is a walkthrough detailing how the app works, what it is doing and how to use it.
 
-**Android App Demo on the real device (Pixel 1) (App installed)**
+## Android App Demo on the real device (Pixel 1) (App installed)
 
 - [x] Get started by cloning the project to your local machine: https://github.com/akashungarala/Branch-Monster-Factory-Android
 - [x] Open the existing project (Folder "Branchster-Android-No-SDK") in the Android Studio (recommended IDE) and run the app on Emulator or on the real device (Pixel 1 in my demo) connected via USB
@@ -31,17 +31,17 @@ This section is a walkthrough detailing how the app works, what it is doing and 
 
 ![licecap recording - android app demo using pixel 1 app installed](https://user-images.githubusercontent.com/7720015/44677109-fa808180-a9e9-11e8-8204-a310f26441ca.gif)
 
-**Android App Demo on the real device (Pixel 1) (App not installed)**
+## Android App Demo on the real device (Pixel 1) (App not installed)
 
 - [x] Now test the branch link received in the message by clicking on it when you do not have the app already installed, which should take you to the browser and open the dropbox url where the app-debug.apk file is hosted (which is the custom URL mentioned in Android redirects section in Branch dashboard)
 - [x] Follow the on-screen instructions and install the apk file from Dropbox and then again click on the branch link received in the message, which should now take you to the Monster Viewer Activity screen of the app directly with the information of the branchster shared.
 
 ![licecap recording - android app demo using pixel 1 app not installed](https://user-images.githubusercontent.com/7720015/44677160-1ab04080-a9ea-11e8-930f-0bacc50a05e9.gif)
 
-**Test the branch link in an iPhone**
-
-![branch link with content preview is received via sms in iphone](https://user-images.githubusercontent.com/7720015/44681163-b5ae1800-a9f4-11e8-86e6-4931b94dda08.PNG)
+## Test the branch link in an iPhone
 
 - [x] Now in an iPhone, test the branch link received in the message by clicking on it, which should take you to the browser and open the branch website http://branch.io (which is the Default URL as mentioned in iOS redirects section in Branch dashboard)
+
+![branch link with content preview is received via sms in iphone](https://user-images.githubusercontent.com/7720015/44681163-b5ae1800-a9f4-11e8-86e6-4931b94dda08.PNG)
 
 ![clicking on the branch link in an iphone takes to branch website in safari browser](https://user-images.githubusercontent.com/7720015/44681147-a5963880-a9f4-11e8-85ca-b2c39d1a0a88.PNG)
