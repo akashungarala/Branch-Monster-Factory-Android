@@ -1,0 +1,317 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-82:12
+MERGED from [com.android.support:design:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/1556e3928a3ef82625c43b92520a5e65/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/5af97e16b5313840f65438b29867a0b6/AndroidManifest.xml:17:1-27:12
+MERGED from [io.branch.sdk.android:library:2.19.2] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/library-2.19.2.aar/70d9acfdf879f4d0ffbae00cde4d8efc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.2.0.aar/2eba593e2e6f332461a03515ca82c66c/AndroidManifest.xml:16:1-18:12
+MERGED from [com.android.support:customtabs:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/customtabs-25.2.0.aar/2d94a39e23d671b3f6ead4cdb2f843c3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1f09fd2c77b91c9ceda45ebb0315e189/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/78c80b9f5ae35e6de4da24c5a8d1f225/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/fb039e2d5982cd63d15d559b9265eb0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4f103ed32f97ddd9eff068393525d2fe/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.0.aar/ca5560b5916eba4783ed4fe03ea0c259/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/eb5b4663aac78552ea1f7665952dd7c9/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.0.aar/65c6d9eaf0bdc195e83fad6f5bd2deaa/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.0.aar/34b15e89c42f5cb92bfa43192e4e4d83/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/ba19c7ee64ec339600e7983a6deba21c/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/da1fe16881bd29630dd325884766c865/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/4e7fffc6fef1262ec43d38f72e3022c1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/0c5ccce73bf181e37da0660ee88bfe42/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e7f91e16fd093c4d00b3cbdc9de19854/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/a5207fcc2683a864c8ca939ec14d53e8/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/e6b8afd22c8e72894333928cf5732284/AndroidManifest.xml:17:1-27:12
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/86a482f14a6ed56fd079b9b578772609/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-82:12
+	package
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-82:12
+		INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-82:12
+		INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:9:5-80:19
+MERGED from [com.android.support:design:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/1556e3928a3ef82625c43b92520a5e65/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/1556e3928a3ef82625c43b92520a5e65/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/5af97e16b5313840f65438b29867a0b6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/5af97e16b5313840f65438b29867a0b6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:customtabs:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/customtabs-25.2.0.aar/2d94a39e23d671b3f6ead4cdb2f843c3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/customtabs-25.2.0.aar/2d94a39e23d671b3f6ead4cdb2f843c3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1f09fd2c77b91c9ceda45ebb0315e189/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1f09fd2c77b91c9ceda45ebb0315e189/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/78c80b9f5ae35e6de4da24c5a8d1f225/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/78c80b9f5ae35e6de4da24c5a8d1f225/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4f103ed32f97ddd9eff068393525d2fe/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4f103ed32f97ddd9eff068393525d2fe/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.0.aar/ca5560b5916eba4783ed4fe03ea0c259/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.0.aar/ca5560b5916eba4783ed4fe03ea0c259/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/eb5b4663aac78552ea1f7665952dd7c9/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/eb5b4663aac78552ea1f7665952dd7c9/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.0.aar/65c6d9eaf0bdc195e83fad6f5bd2deaa/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.0.aar/65c6d9eaf0bdc195e83fad6f5bd2deaa/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.0.aar/34b15e89c42f5cb92bfa43192e4e4d83/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.0.aar/34b15e89c42f5cb92bfa43192e4e4d83/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/ba19c7ee64ec339600e7983a6deba21c/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/ba19c7ee64ec339600e7983a6deba21c/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/da1fe16881bd29630dd325884766c865/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/da1fe16881bd29630dd325884766c865/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/4e7fffc6fef1262ec43d38f72e3022c1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/4e7fffc6fef1262ec43d38f72e3022c1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/0c5ccce73bf181e37da0660ee88bfe42/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/0c5ccce73bf181e37da0660ee88bfe42/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e7f91e16fd093c4d00b3cbdc9de19854/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e7f91e16fd093c4d00b3cbdc9de19854/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/a5207fcc2683a864c8ca939ec14d53e8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/a5207fcc2683a864c8ca939ec14d53e8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/e6b8afd22c8e72894333928cf5732284/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/e6b8afd22c8e72894333928cf5732284/AndroidManifest.xml:25:5-20
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/86a482f14a6ed56fd079b9b578772609/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/86a482f14a6ed56fd079b9b578772609/AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:14:9-41
+	android:largeHeap
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:11:9-33
+	android:icon
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:12:9-35
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:10:9-67
+activity#io.branch.branchster.SplashActivity
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:16:9-46:20
+	android:screenOrientation
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:18:13-45
+	android:launchMode
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:21:13-44
+	android:theme
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:20:13-53
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:17:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:25:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:open+data:scheme:branchsters
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:29:13-34:29
+data
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:30:17-74
+	android:host
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:30:52-71
+	android:scheme
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:30:23-51
+	android:pathPrefix
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:41:75-110
+action#android.intent.action.VIEW
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:32:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:33:27-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:yz00-alternate.app.link+data:host:yz00.app.link+data:host:yz00.app.link+data:pathPrefix:@string/app_id+data:scheme:https+data:scheme:https+data:scheme:https
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:37:13-44:29
+	android:autoVerify
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:37:28-53
+meta-data#io.branch.sdk.BranchKey
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:49:9-96
+	android:value
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:49:59-93
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:49:20-58
+meta-data#io.branch.sdk.BranchKey.test
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:50:9-106
+	android:value
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:50:64-103
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:50:20-63
+meta-data#io.branch.sdk.TestMode
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:51:9-82
+	android:value
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:51:58-79
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:51:20-57
+receiver#io.branch.referral.InstallListener
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:54:9-58:20
+	android:exported
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:54:69-92
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:54:19-68
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:55:13-57:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:56:17-79
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:56:25-76
+activity#io.branch.branchster.MonsterViewerActivity
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:60:9-69:20
+	android:screenOrientation
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:64:13-49
+	android:launchMode
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:63:13-48
+	android:theme
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:62:13-49
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:61:13-70
+meta-data#io.branch.sdk.auto_link_path
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:66:13-108
+	android:value
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:66:68-106
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:66:24-67
+meta-data#io.branch.sdk.auto_link_request_code
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:68:13-126
+	android:value
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:68:76-124
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:68:24-75
+activity#io.branch.branchster.MonsterCreatorActivity
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:71:9-76:20
+	android:screenOrientation
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:75:13-49
+	android:launchMode
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:74:13-48
+	android:theme
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:72:13-71
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:78:9-107
+	android:value
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:78:66-105
+	android:name
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:78:20-65
+uses-sdk
+INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/1556e3928a3ef82625c43b92520a5e65/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/1556e3928a3ef82625c43b92520a5e65/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/5af97e16b5313840f65438b29867a0b6/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/5af97e16b5313840f65438b29867a0b6/AndroidManifest.xml:21:5-23:78
+MERGED from [io.branch.sdk.android:library:2.19.2] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/library-2.19.2.aar/70d9acfdf879f4d0ffbae00cde4d8efc/AndroidManifest.xml:7:5-9:41
+MERGED from [io.branch.sdk.android:library:2.19.2] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/library-2.19.2.aar/70d9acfdf879f4d0ffbae00cde4d8efc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.2.0.aar/2eba593e2e6f332461a03515ca82c66c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.2.0.aar/2eba593e2e6f332461a03515ca82c66c/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:customtabs:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/customtabs-25.2.0.aar/2d94a39e23d671b3f6ead4cdb2f843c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/customtabs-25.2.0.aar/2d94a39e23d671b3f6ead4cdb2f843c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1f09fd2c77b91c9ceda45ebb0315e189/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/1f09fd2c77b91c9ceda45ebb0315e189/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/78c80b9f5ae35e6de4da24c5a8d1f225/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/78c80b9f5ae35e6de4da24c5a8d1f225/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/fb039e2d5982cd63d15d559b9265eb0b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/fb039e2d5982cd63d15d559b9265eb0b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4f103ed32f97ddd9eff068393525d2fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/4f103ed32f97ddd9eff068393525d2fe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.0.aar/ca5560b5916eba4783ed4fe03ea0c259/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.2.0.aar/ca5560b5916eba4783ed4fe03ea0c259/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/eb5b4663aac78552ea1f7665952dd7c9/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/eb5b4663aac78552ea1f7665952dd7c9/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.0.aar/65c6d9eaf0bdc195e83fad6f5bd2deaa/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.2.0.aar/65c6d9eaf0bdc195e83fad6f5bd2deaa/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.0.aar/34b15e89c42f5cb92bfa43192e4e4d83/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.0.aar/34b15e89c42f5cb92bfa43192e4e4d83/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/ba19c7ee64ec339600e7983a6deba21c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/ba19c7ee64ec339600e7983a6deba21c/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/da1fe16881bd29630dd325884766c865/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/da1fe16881bd29630dd325884766c865/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/4e7fffc6fef1262ec43d38f72e3022c1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/4e7fffc6fef1262ec43d38f72e3022c1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/0c5ccce73bf181e37da0660ee88bfe42/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/0c5ccce73bf181e37da0660ee88bfe42/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e7f91e16fd093c4d00b3cbdc9de19854/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/e7f91e16fd093c4d00b3cbdc9de19854/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/a5207fcc2683a864c8ca939ec14d53e8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/a5207fcc2683a864c8ca939ec14d53e8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/e6b8afd22c8e72894333928cf5732284/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/e6b8afd22c8e72894333928cf5732284/AndroidManifest.xml:21:5-23:58
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/86a482f14a6ed56fd079b9b578772609/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/86a482f14a6ed56fd079b9b578772609/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/1556e3928a3ef82625c43b92520a5e65/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akashungarala/Desktop/Final Submission/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.2.0.aar/32f22e9845207276589fc35c170192ce/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/eb5b4663aac78552ea1f7665952dd7c9/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/eb5b4663aac78552ea1f7665952dd7c9/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/eb5b4663aac78552ea1f7665952dd7c9/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.0.aar/eb5b4663aac78552ea1f7665952dd7c9/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/ba19c7ee64ec339600e7983a6deba21c/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/ba19c7ee64ec339600e7983a6deba21c/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /Users/akashungarala/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.0.aar/ba19c7ee64ec339600e7983a6deba21c/AndroidManifest.xml:20:20-65
